@@ -4,7 +4,7 @@
 
 [Watch the video](https://youtu.be/8E0bLfXa-ek)
 
-[Read the Final Report](./KUSRP - Haptic Vest for Indoor Navigation - Final Report.pdf)
+[Read the Final Report](./KUSRP%20-%20Haptic%20Vest%20for%20Indoor%20Navigation%20-%20Final%20Report.pdf)
 
 ## Project Overview
 
